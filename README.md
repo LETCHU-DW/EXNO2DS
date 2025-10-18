@@ -117,4 +117,4 @@ sns.catplot(x="Gender",col='Survived',data=df,kind='count',color='green')
 <img width="1448" height="661" alt="image" src="https://github.com/user-attachments/assets/925bdd66-679b-4767-a5e1-0b11a793bb1b" />
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+   The above code is excuted successfully
